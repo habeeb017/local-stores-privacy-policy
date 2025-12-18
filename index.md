@@ -1,3 +1,8 @@
+---
+title: Local Storess
+layout: default  # Optional, if using a theme
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Local Stores app (hereby referred to as "Application") for mobile devices that was created by Habeeb Rahman (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
